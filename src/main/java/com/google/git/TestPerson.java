@@ -13,5 +13,6 @@ public class TestPerson {
         System.out.println("对了，就是一个人穿了两个人的衣服");
         System.out.println("错了是一个人穿了两个人的衣服");
         System.out.println("不，原来是一个大胖子");
+        System.out.println("不，是个瘦子");
     }
 }
