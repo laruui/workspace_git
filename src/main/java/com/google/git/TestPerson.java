@@ -10,5 +10,6 @@ public class TestPerson {
         Person person = new Person();
         Person person2 = new Person();
         System.out.println("两个人类");
+        System.out.println("对了，就是一个人穿了两个人的衣服");
     }
 }
